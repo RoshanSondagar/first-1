@@ -1,4 +1,4 @@
 # first-1
-This is my first git repository.
+demo repo.
 <br>
 Author - roshan sondagar
